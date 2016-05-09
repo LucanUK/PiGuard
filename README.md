@@ -5,7 +5,7 @@ PiGuard is a Pi based Server Environment monitoring system comprising of the fol
 
 Multi Point Temperature
 
-Room Light Statsu
+Room Light Status
 
 Humidity Status
 
